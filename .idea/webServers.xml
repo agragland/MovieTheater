@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fc537d94-ea2b-4439-8bce-0ed94967d39c" name="CSCE">
+        <fileTransfer rootFolder="/home/agr0119" accessType="SFTP" host="cse01.cse.unt.edu" port="22" sshConfigId="b175c522-7502-478e-b4a2-7d5410850927" sshConfig="agr0119@cse01.cse.unt.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4722e74b-515d-4f48-b625-d82ad492500f" name="CSCE2">
+        <fileTransfer rootFolder="/home/agr0119" accessType="SFTP" host="cse01.cse.unt.edu" port="22" sshConfigId="b175c522-7502-478e-b4a2-7d5410850927" sshConfig="agr0119@cse01.cse.unt.edu:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
